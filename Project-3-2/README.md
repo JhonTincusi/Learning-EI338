@@ -2,7 +2,7 @@
 
 Fork-Join Sorting Application. (Operating System Concepts, 10th Edition, Chapter 4)
 
-## Description
+## Descriptionk
 
 Implement the preceding project (Multithreaded Sorting Application) using Java’s fork-join parallelism API (**I use Golang instead**) . This project will be developed in two different versions. Each version will implement a different divide-and-conquer sorting algorithm:
 
